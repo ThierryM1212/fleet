@@ -1,6 +1,6 @@
-# @fleet-sdk/node-client
+# @fleet-sdk/graphql-client
 
-## 0.1.1
+## 0.0.1
 
 ### Patch Changes
 
@@ -9,8 +9,3 @@
 - Updated dependencies [d08255c]
   - @fleet-sdk/common@0.3.0
   - @fleet-sdk/core@0.3.0
-  - @fleet-sdk/serializer@0.3.0
-
-## 0.1.0
-
-- initial version
